@@ -23,7 +23,7 @@ body {
 }
 
 .top-block {
-    position: absolute;
+    position: fixed;
     width: 232px;
     height: 72px;
     top: 0;
